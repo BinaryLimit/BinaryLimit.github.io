@@ -1,0 +1,22 @@
+<!-- 1. 引入 KaTeX 的核心 CSS 样式 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+
+<!-- 2. 引入 KaTeX 的核心 JS 文件 -->
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+
+<!-- 3. 引入 KaTeX 的自动渲染插件 -->
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},  // 用于块级公式
+        {left: "$", right: "$", display: false},   // 用于行内公式
+        {left: "\\(", right: "\\)", display: false}, // 用于行内公式
+        {left: "\\[", right: "\\]", display: true}   // 用于块级公式
+      ],
+      throwOnError : false // 遇到错误时不中断，避免影响评论显示
+    });
+  });
+</script>
