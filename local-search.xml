@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>Subject Plan Introduction</title>
-    <link href="/2026/05/13/Subject-Plan-Introduction/"/>
-    <url>/2026/05/13/Subject-Plan-Introduction/</url>
+    <title>CN-1-30 DATA</title>
+    <link href="/2026/05/14/CN-1-30-DATA/"/>
+    <url>/2026/05/14/CN-1-30-DATA/</url>
     
-    <content type="html"><![CDATA[<h1 id="总则">总则</h1><p><code>Subject-Plan</code>(<code>SP</code>，学科计划)，是<code>BinaryLimit</code>为提高某科学习成绩而制定的学习计划</p><h1 id="性质">性质</h1><p>制定的学习计划，应包含以下几点内容：</p><p>1 要求有对于某科内容，有明确的、突出的时间安排</p><p>2 要求指出，当该计划执行完毕后，期望在该学科上取得的成就</p><p>3 不能为了本学科而忽视其他学科的学习，即在时间安排上需要由除本学科外的其他必要学科</p><h1 id="组成">组成</h1><ul><li><p><strong>标题</strong></p><p>标题应由三部分组成。第一部分：本计划针对的学科，由两个大写字母表示，对应关系  <code>CN</code>-语文、 <code>MT</code>-数学、 <code>EN</code>-英语、 <code>PH</code>-物理、 <code>CH</code>-化学、 <code>HT</code>-历史、</p><p><code>GY</code> -地理、 <code>ME</code>-道德与法治、 <code>BL</code>-生物、 <code>IT</code>-信息技术，并添加标签<code>[SP,计划的学科代号]</code>第二部分：计划的序号，从<code>1</code>开始顺次排序。第三部分：计划时长，单位天。例：<code>CN-1-30</code>表示</p><p>在语文学科上的第一个计划，使用一个月完成。</p></li></ul><ul><li><p><strong>周期</strong></p><p>开始时间到结束时间。格式：<code>YYYY/MM/DD ~ YYYY/MM/DD</code></p></li><li><p><strong>时间表</strong></p><p>包含每一天的计划，包含时间段和计划</p></li></ul><ul><li><strong>目标</strong></li></ul><h1 id="要求">要求</h1><p>填写完成表，格式<code>finished_num/total_num</code></p>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>1</td><td>5/7</td><td>2</td><td>6/7</td><td>3</td><td>2/3</td><td>4</td><td></td><td>5</td><td></td></tr><tr><td>6</td><td></td><td>7</td><td></td><td>8</td><td></td><td>9</td><td></td><td>10</td><td></td></tr><tr><td>11</td><td></td><td>12</td><td></td><td>13</td><td></td><td>14</td><td></td><td>15</td><td></td></tr><tr><td>16</td><td></td><td>17</td><td></td><td>18</td><td></td><td>19</td><td></td><td>20</td><td></td></tr><tr><td>21</td><td></td><td>22</td><td></td><td>23</td><td></td><td>24</td><td></td><td>25</td><td></td></tr><tr><td>26</td><td></td><td>27</td><td></td><td>28</td><td></td><td>29</td><td></td><td>30</td><td></td></tr></tbody></table><h1 id="day-1">Day 1</h1><ul><li>非连2.5/8，选择题”黄帝“、”龙图腾“偷换概念；”设计理念“指寓意；注意格式，联系生活实际</li><li>记叙文8/17，注意格式，从文中找答案；结合原文回答；审题，格式</li><li>拉完了（悲</li></ul><h1 id="day-2">Day 2</h1><ul><li>非连6/8，文中内容抄全、分类</li><li>记叙文10/17，文中找答案、赏析题分析原句作答、内容+情感</li></ul><h1 id="day-3">Day 3</h1><ul><li>出去玩了</li></ul>]]></content>
     
     
     
@@ -18,23 +18,7 @@
       
       <tag>CN</tag>
       
-      <tag>MT</tag>
-      
-      <tag>EN</tag>
-      
-      <tag>PH</tag>
-      
-      <tag>CH</tag>
-      
-      <tag>HT</tag>
-      
-      <tag>GY</tag>
-      
-      <tag>ME</tag>
-      
-      <tag>BL</tag>
-      
-      <tag>IT</tag>
+      <tag>DATA</tag>
       
     </tags>
     
@@ -43,11 +27,30 @@
   
   
   <entry>
-    <title>CN-1-30计划</title>
-    <link href="/2026/05/13/CN-1-30%E8%AE%A1%E5%88%92/"/>
-    <url>/2026/05/13/CN-1-30%E8%AE%A1%E5%88%92/</url>
+    <title>Subject Plan Introduction</title>
+    <link href="/2026/05/13/Subject-Plan-Introduction/"/>
+    <url>/2026/05/13/Subject-Plan-Introduction/</url>
     
-    <content type="html"><![CDATA[<h1 id="cn-1-30">CN-1-30</h1><p>2026/5/13 ~ 2026/6/13</p><h2 id="时间表">时间表</h2><p><strong>周一、周二、周四、周五</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>7：20~7：40</td><td>7：20~7：40</td></tr><tr><td>18：40~19：00</td><td>快手极速版签到打卡</td></tr><tr><td>19：00~19：50</td><td>学校作业、语文非连文本、记叙文、说明文、批改并分析总结</td></tr><tr><td>20：00~20：30</td><td>跑步</td></tr><tr><td>20：30~21：00</td><td>地理或生物卷/数学，要求地生卷完成各1套</td></tr><tr><td>21：00~22：00</td><td>数学</td></tr><tr><td>22：00~22：30</td><td>洗脚，火影打卡、睡觉</td></tr></tbody></table><p><strong>周三</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>7：20~7：40</td><td>7：20~7：40</td></tr><tr><td>20：40~21：00</td><td>快手极速版签到打卡</td></tr><tr><td>21：00~22：00</td><td>物理作业</td></tr><tr><td>22：00~22：30</td><td>洗澡，火影打卡、睡觉</td></tr></tbody></table><p><strong>周六</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>19：00~21：00</td><td>四叶草作业，语文基础题</td></tr><tr><td>21:00~22:00</td><td>放松游玩</td></tr><tr><td>22：:00~22：30</td><td>洗漱睡觉</td></tr></tbody></table><p><strong>周日</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>8：00~14：00</td><td>核桃编程</td></tr><tr><td>14：30~15：40</td><td>地生卷</td></tr><tr><td>16：00~18：00</td><td>考数学卷</td></tr><tr><td>19：00~21：00</td><td>数学题</td></tr><tr><td>21：00~22：00</td><td>放松游玩</td></tr><tr><td>22：:00~22：30</td><td>洗漱睡觉</td></tr></tbody></table><h1 id="目标">目标</h1><p>在一个月以后，<strong>语文基础题</strong>在大多数情况下<strong>不扣分</strong>，允许第10题扣1~2分；<strong>非连文本、说明文</strong>大多数情况下<strong>不扣分</strong>；<strong>大阅读</strong>扣分控制在<strong>3分以内</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="总则">总则</h1><p><code>Subject-Plan</code>(<code>SP</code>，学科计划)，是<code>BinaryLimit</code>为提高某科学习成绩而制定的学习计划</p><h1 id="性质">性质</h1><p>制定的学习计划，应包含以下几点内容：</p><p>1 要求有对于某科内容，有明确的、突出的时间安排</p><p>2 要求指出，当该计划执行完毕后，期望在该学科上取得的成就</p><p>3 不能为了本学科而忽视其他学科的学习，即在时间安排上需要由除本学科外的其他必要学科</p><h1 id="组成">组成</h1><ul><li><p><strong>标题</strong></p><p>标题应由三部分组成。第一部分：本计划针对的学科，由两个大写字母表示，对应关系  <code>CN</code>-语文、 <code>MT</code>-数学、 <code>EN</code>-英语、 <code>PH</code>-物理、 <code>CH</code>-化学、 <code>HT</code>-历史、</p><p><code>GY</code> -地理、 <code>ME</code>-道德与法治、 <code>BL</code>-生物、 <code>IT</code>-信息技术，并添加标签<code>[SP,计划的学科代号]</code>第二部分：计划的序号，从<code>1</code>开始顺次排序。第三部分：计划时长，单位天。例：<code>CN-1-30</code>表示</p><p>在语文学科上的第一个计划，使用一个月完成。</p></li></ul><ul><li><p><strong>周期</strong></p><p>开始时间到结束时间。格式：<code>YYYY/MM/DD ~ YYYY/MM/DD</code></p></li><li><p><strong>时间表</strong></p><p>包含每一天的计划，包含时间段和计划</p></li></ul><ul><li><strong>目标</strong></li></ul><h1 id="要求">要求</h1><p>每日填写日志报告，其中日志报告名称为”计划名+DATA“，如<code>CN-1-30 DATA</code>，标签为<code>[SP,CN,DATA]</code>，格式要求：</p><ul><li>填写完成表，格式<code>finished_num/total_num</code></li><li>表格下方一天一条，格式&quot;Day 1 …&quot;可从得分，错误点，收获等评价</li><li>最后填写本次计划结果</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>SP</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>CN-1-30</title>
+    <link href="/2026/05/13/CN-1-30/"/>
+    <url>/2026/05/13/CN-1-30/</url>
+    
+    <content type="html"><![CDATA[<h1 id="cn-1-30">CN-1-30</h1><p>2026/5/13 ~ 2026/6/13</p><h2 id="时间表">时间表</h2><p><strong>周一、周二、周四、周五</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>6：20~6：40</td><td>英语阅读*2</td></tr><tr><td>18：40~19：00</td><td>快手极速版签到打卡</td></tr><tr><td>19：00~19：50</td><td>学校作业、语文非连文本、记叙文、说明文、批改并分析总结（先背提纲）</td></tr><tr><td>20：00~20：30</td><td>跑步</td></tr><tr><td>20：30~21：00</td><td>地理或生物卷/数学，要求地生卷完成各1套</td></tr><tr><td>21：00~22：00</td><td>数学</td></tr><tr><td>22：00~22：30</td><td>洗脚，火影打卡、睡觉</td></tr></tbody></table><p><strong>周三</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>6：20~6：40</td><td>英语阅读*2</td></tr><tr><td>20：40~21：00</td><td>快手极速版签到打卡</td></tr><tr><td>21：00~22：00</td><td>物理作业</td></tr><tr><td>22：00~22：30</td><td>洗澡，火影打卡、睡觉</td></tr></tbody></table><p><strong>周六</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>19：00~21：00</td><td>四叶草作业，语文基础题</td></tr><tr><td>21:00~22:00</td><td>放松游玩</td></tr><tr><td>22：:00~22：30</td><td>洗漱睡觉</td></tr></tbody></table><p><strong>周日</strong></p><table><thead><tr><th>时间</th><th>活动</th></tr></thead><tbody><tr><td>8：00~14：00</td><td>核桃编程</td></tr><tr><td>14：30~15：40</td><td>地生卷</td></tr><tr><td>16：00~18：00</td><td>考数学卷</td></tr><tr><td>19：00~20：00</td><td>语文非连文本、记叙文、说明文、批改并分析总结（先背提纲）</td></tr><tr><td>20：00~21：00</td><td>数学题</td></tr><tr><td>21：00~22：00</td><td>放松游玩</td></tr><tr><td>22：:00~22：30</td><td>洗漱睡觉</td></tr></tbody></table><h1 id="目标">目标</h1><p>在一个月以后，<strong>语文基础题</strong>在大多数情况下<strong>不扣分</strong>，允许第10题扣1~2分；<strong>非连文本、说明文</strong>大多数情况下<strong>不扣分</strong>；<strong>大阅读</strong>扣分控制在<strong>3分以内</strong></p>]]></content>
     
     
     
